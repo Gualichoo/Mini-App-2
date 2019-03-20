@@ -1,0 +1,30 @@
+{
+  "name": "challenge_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gualichoo/Mini-App-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gualichoo/Mini-App-2/issues"
+  },
+  "homepage": "https://github.com/Gualichoo/Mini-App-2#readme",
+  "dependencies": {
+    "aws-sdk": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "mysql": "latest",
+    "nodemon": "^1.18.10",
+    "opsworks": "^0.1.3"
+  }
+}
